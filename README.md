@@ -1,5 +1,7 @@
 # Revenue_Insights_PowerBI
 
+AtliQ Hospitality - Revenue Insights
+
 This dashboard was developed as a part of the CodeBasics Challenge, an online data analytics training platform.
 
 This dashboard analyzes the revenue of an imaginary hospitality company which owns a chain of hotels in various cities of India. Various KPIs such as Occupancy rate, Cancellation rate, etc. which are specific to hospitality industry in addition to revenue were calculated using DAX measures. 
