@@ -11,6 +11,7 @@ hotels across India, focusing on data from May to June 2022.
 
 • Provided the CEO with clear insights into revenue trends and KPIs, enhancing data clarity and supporting strategic decision-making, which contributed to efforts to regain market share.
 
+Overview 
 
 This dashboard was developed as a part of the CodeBasics Challenge, an online data analytics training platform.
 
